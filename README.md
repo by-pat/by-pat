@@ -21,11 +21,11 @@ Hola, soy **Patricia**.
 
 Resumen de mis habilidades y herramientas favoritas:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) &nbsp;
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white) &nbsp;
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black) &nbsp;
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white) &nbsp;
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white) &nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)&nbsp;
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrumalliance&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
 • • •
