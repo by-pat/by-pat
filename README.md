@@ -10,14 +10,14 @@ Hola, soy **Patricia**.
 
 • • •
 
-## 📈 Sobre Mí
+## 📈 Sobre mí
 
 - Transformo datos complejos en insights claros.  
 - Siempre explorando nuevas tecnologías y mejores prácticas.  
 
 • • •
 
-## 🧰 Herramientas y Tecnologías
+## 🧰 Herramientas y tecnologías
 
 Resumen de mis habilidades y herramientas favoritas:
 
