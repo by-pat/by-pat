@@ -49,11 +49,6 @@ Resumen de mis habilidades y herramientas favoritas:
 
 • • •
 
-> ✨ *“Transformando datos en decisiones inteligentes”* 📈
-
-
-• • •
-
 
 <p align="center">
     <strong>¡Gracias por visitar mi perfil! 😊</strong>
