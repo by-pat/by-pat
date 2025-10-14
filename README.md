@@ -6,7 +6,7 @@
 
 Hola, soy **Patricia**. 
 
-🎓 Analista Programadora Universitaria | Apasionada por convertir datos en decisiones inteligentes 📊
+🎓 Analista Programador Universitario | Apasionada por convertir datos en decisiones inteligentes 📊
 
 • • •
 
