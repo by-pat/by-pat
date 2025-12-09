@@ -42,9 +42,16 @@ Resumen de mis habilidades y herramientas favoritas:
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=by-pat&layout=compact&theme=tokyonight" width="36.5%" style="display:inline-block; vertical-align:top; margin-right:2%;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=by-pat&show_icons=true&theme=tokyonight&count_private=true" width="48%" style="display:inline-block; vertical-align:top;" />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=by-pat&show_icons=true&theme=tokyonight&count_private=true"
+  />
+  <img
+    height="210"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=by-pat&layout=compact&theme=tokyonight"
+  />
 </p>
+
 
 
 • • •
