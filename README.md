@@ -30,10 +30,10 @@ Resumen de mis habilidades y herramientas favoritas:
 
 • • •
 
+## 🧩 Actualmente
 
-## 🧩 Actualmente aprendiendo
-
-🤖 Herramientas de Inteligencia Artificial generativa: ChatGPT, Gemini, Copilot y generadores de imágenes.
+- Explorando y perfeccionando herramientas de IA generativa  
+- Automatizando procesos para optimizar tareas y flujos de trabajo
 
 • • •
 
